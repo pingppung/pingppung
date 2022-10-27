@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Hello!%20I'm%20pingppung&fontSize=50&fontColor=d6ace6)
 
-**Skills**
+### Skills
+
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React.js&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"></code>
