@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Hello!%20I'm%20pingppung&desc=study%20developmen&fontSize=50&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Hello!%20I'm%20pingppung&fontSize=50&fontColor=d6ace6)
 
 **Skills**
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></code>
@@ -10,7 +10,7 @@
 <code><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"></code>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact">  <img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingppung&layout=compact">  <img src="https://github-readme-stats.vercel.app/api?username=pingppung&show_icons=true">
 <!--
 **pingppung/pingppung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
