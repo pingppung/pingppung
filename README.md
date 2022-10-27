@@ -1,5 +1,14 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=pingppung&fontSize=90&fontColor=d6ace6)
+👋 Hi, I'm Pingppung
+
+### Skills
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=ReactJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=NodeJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 <!--
 **pingppung/pingppung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
