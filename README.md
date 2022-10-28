@@ -11,7 +11,6 @@
 <code><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"></code>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingppung&layout=compact">  <img src="https://github-readme-stats.vercel.app/api?username=pingppung&show_icons=true">
 <!--
 **pingppung/pingppung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
